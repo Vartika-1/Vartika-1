@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Vartika-1
-- 👀 I’m interested in Ethical Hacking & Cyber Security
+
 
 
 <!---
